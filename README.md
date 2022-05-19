@@ -9,15 +9,13 @@
   <a href="#-Licença">License</a>
 </p>
 
-    Banner do projeto
-    Em contrsução
-<img src='banner do projeto'>
+  ![image](https://user-images.githubusercontent.com/2619027/169178127-0e5263c8-38e9-489a-8d65-65a28323b34b.png)
 
 <div>
-    <img src="https://img.shields.io/github/repo-size/felpfsf/reponame">
-    <img src="https://img.shields.io/github/last-commit/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/count/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/top/felpfsf/reponame">
+    <img src="https://img.shields.io/github/repo-size/felpfsf/bootcamp-spread-dio-htmlcss3">
+    <img src="https://img.shields.io/github/last-commit/felpfsf/bootcamp-spread-dio-htmlcss3">
+    <img src="https://img.shields.io/github/languages/count/felpfsf/bootcamp-spread-dio-htmlcss3">
+    <img src="https://img.shields.io/github/languages/top/felpfsf/bootcamp-spread-dio-htmlcss3">
 </div>
 </div>
 
@@ -28,22 +26,23 @@
 This project is being developed with the follwing technologies:
 
 - HTML
+- CSS3
 
-
-Utilities
-
-- 
 
 ## 💻 Description
 
-  Clone page of instagram
+  under construction...
 
 
 ## Features
 
-- 
-- 
-- 
+<div align='center'>
+
+  ![image](https://user-images.githubusercontent.com/2619027/169180524-8743b2c0-7920-4f02-97fe-cb59b07c621e.png)
+  
+</div>
+
+- Responsive from 375px to 1920px
 
 
 ## 🔖 Layout
